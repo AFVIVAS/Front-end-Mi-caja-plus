@@ -74,7 +74,7 @@ utils/              Manejo de sesión y utilidades
 
 ### 1. Backend
 
-Requisitos: Python 3.11+ y un servidor MySQL.
+Requisitos: Python 3.12+ y un servidor MySQL.
 
 ```bash
 git clone https://github.com/AFVIVAS/Backend-Mi-caja-plus.git
